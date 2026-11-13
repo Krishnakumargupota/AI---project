@@ -1,0 +1,6 @@
+streamlit
+openCV
+mediapipe
+librosa
+python 3.9+
+visual studio code
